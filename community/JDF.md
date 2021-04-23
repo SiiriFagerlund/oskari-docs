@@ -17,13 +17,13 @@ If your organisation is willing to support JDF work, please contact Communicatio
 [JDF memos](https://github.com/oskariorg/oskari-docs/tree/master/community/memos/) are available in Finnish.
 
 
-### Members of JDF in 2020
+### Members of JDF
 
-**Head of Board**
-Rina Tammisto, Statistics Finland
+**Head of Board**:
+Siiri Fagerlund, Sitowise Group Oyj
 
 **Communication Coordinator**:
-Sanna Jokela, Gispo Ltd
+Siiri Fagerlund, Sitowise Group Oyj
 
 **Technical Coordinator**:
 Timo Aarnio & Sami Mäkinen, National Land Survey of Finland
@@ -80,7 +80,7 @@ Timo Aarnio & Sami Mäkinen, National Land Survey of Finland
      <tr>
       <th scope="row">7</th>
       <td><a href="https://www.hsy.fi/" target="_blank"><img src="/images/logo/hsy.png" width="200" alt="Helsinki Region Environmental services"></a></td>
-      <td>Henna-Kaisa Stjernberg</td>
+      <td>Henna-Kaisa Stjernberg, Laura Lähteenmäki</td>
       <td></td>
     </tr>
     <tr>
@@ -97,14 +97,14 @@ Timo Aarnio & Sami Mäkinen, National Land Survey of Finland
     </tr>
     <tr>
       <th scope="row">10</th>
-      <td><a href="https://www.sitowise.com/en" target="_blank"><img src="/images/logo/sitowise.png" width="200" alt="Sitowise Ltd"></a></td>
+      <td><a href="https://www.sitowise.com/en" target="_blank"><img src="/images/logo/sitowise.png" width="200" alt="Sitowise Group Oyj"></a></td>
       <td>Jani Levonen</td>
       <td>Community representative</td>
     </tr>
      <tr>
       <th scope="row">11</th>
       <td><a href="http://www.stat.fi/" target="_blank"><img src="/images/logo/statistics.png" width="200" alt="Statistics Finland"></a></td>
-      <td>Rina Tammisto</td>
+      <td>Tapio Kytö</td>
       <td>Community representative</td>
     </tr>
      <tr>
